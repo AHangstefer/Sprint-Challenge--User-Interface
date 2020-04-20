@@ -124,11 +124,12 @@ p {
 }
 
 .middle-content .boxes .box {
-    width: 12.5%;
-    height: 100px;
+    display: flex;
+    width: 10em;
+    height: 10rem;
     background: black;
     margin: 20px 2.5%;
-    color: white;
+    color:red;
     display: flex;
     align-items: center;
     justify-content: center;
