@@ -53,16 +53,22 @@ table {
  box-sizing: border-box;
 }
 
-#top{
-    display: inline-block;
-    display: flex:
-    justify-content: center;
+#topnav{
+    padding: 5%;
+}
 
+nav a{
+    display: inline;
+    padding: 7%;
+
+    
 }
 
 #image{
     display: flex;
     justify-content: center;
+    padding: 2%;
+    
 }
 
 html, body {
@@ -82,12 +88,7 @@ p {
     line-height: 1.4;
 }
 
-.container {
-    width: 800px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-}
+.container 
 
 .top-content {
     display: flex;
@@ -101,8 +102,8 @@ p {
     width: 48%;
     padding: 0 1%;
     padding-bottom: 20px;  
-    display: flex;
-    justify-content: center;
+    display: inline-block;
+    
 }
 
 .middle-content {
@@ -123,11 +124,11 @@ p {
     
 }
 
-.middle-content .boxes .box {
+.middle-content .boxes .box1, .box2, .box3, .box4,
+.box5, .box6, .box7, .box8, .box9, .box10 {
     display: flex;
     width: 10em;
     height: 10rem;
-    background: black;
     margin: 20px 2.5%;
     color:red;
     display: flex;
@@ -135,6 +136,45 @@ p {
     justify-content: center;
 }
 
+.middle-content .boxes .box1{
+    background-color: teal;
+}
+
+.middle-content .boxes .box2{
+    background-color:gold ;
+}
+
+.middle-content .boxes .box3{
+    background-color: cadetblue;
+}
+
+.middle-content .boxes .box4{
+    background-color: coral;
+}
+
+.middle-content .boxes .box5{
+    background-color: crimson;
+}
+
+.middle-content .boxes .box6{
+    background-color: forestgreen;
+}
+
+.middle-content .boxes .box7{
+    background-color: darkorchid;
+}
+
+.middle-content .boxes .box8{
+    background-color: hotpink;
+}
+
+.middle-content .boxes .box9{
+    background-color: indigo;
+}
+
+.middle-content .boxes .box10{
+    background-color:dodgerblue;
+}
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;

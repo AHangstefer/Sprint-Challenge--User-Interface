@@ -68,9 +68,6 @@ You are expected to be able to answer all these questions. Your responses contri
 
 ### Task 2:  Minimum Viable Product
 
-Your finished project must include all of the following requirements:
-
-#### Home Page
 
 [Review the provided design file for the home page](https://tk-assets.lambdaschool.com/fbe7ebfc-a4c2-4a32-8929-bbd41fbc4f67_ScreenShot2020-03-25at11.03.41AM.png).  Notice the navigation and header images are missing.
 
